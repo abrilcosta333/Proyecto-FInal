@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&display=swap');
+
+
+section {background-image: url("img/humo.jpg");background-repeat: no-repeat;background-size: cover;}
+h1 {text-align: center;text-decoration: underline;font-family: 'Fuzzy Bubbles', cursive;}
+h3 {color: black;font-family: 'Baloo Bhaijaan 2', cursive;}
+h2 {text-align: center;background-color: black;color: white;text-decoration: underline;border:3px solid orange; border-radius:10px;}
+li {font-size: 150%;}
+footer img {float: right;}
+aside {background-image: url("img/ciga.jpg");}
+footer {background-image: url("img/romper.jpg");background-repeat: no-repeat;background-size: cover;}
+footer a:hover {
+  color: orange; font-size: 130%;
+}
